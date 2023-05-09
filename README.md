@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👾, I'm Ziya!</h1>
+<h1 align="center">Hi 👾 I'm Ziya!</h1>
 <h3 align="center">A software engineer passionate in game development and design!  <br> I am currently learning C++ to get the most out of Unreal Engine.  <br> In the future, I plan to pursue a career in game production. 🎮</h3>
 
 
